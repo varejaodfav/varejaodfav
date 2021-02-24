@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 Administrador de sistemas Linux e desenvolvedor Fullstack.
 <br/>
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:varejaodfav@gmail.com)](mailto:varejaodfav@gmail.com) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg??style=flat-square&logo=instagram&logoColor=white">](https://www.instagram.com/dalencarvarejao/) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/diego-varejão-352575207/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:varejaodfav@gmail.com)](mailto:varejaodfav@gmail.com) [<img src = "https://img.shields.io/badge/Instagram-%23E4405F.svg??style=flat-square&logo=instagram&logoColor=white">](https://www.instagram.com/dalencarvarejao/) [<img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/diego-varejão-352575207/)
 
 💬 &nbsp; Olá, meu nome é Diego Varejão.
 <br/>Sou administrador de sistemas Linux e desenvolvedor fullstack, e utilizo essas habilidades para transformar necessidades em ferramentas funcionais. Estou sempre em busca de conhecimento na área de desenvolvimento de softwares, cultura DevOps e infraestrutura de nuvens.
